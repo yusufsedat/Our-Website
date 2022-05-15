@@ -1,0 +1,44 @@
+body
+{
+    padding-top: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    padding-bottom: 120px;
+    min-height: 100vh;
+    font-size: 21px;
+    background-color: azure;
+    
+    
+  }
+  
+ 
+
+  .responsive {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+  }
+  .resimSlider {
+    height: 500px;
+  }
+  .img {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    
+  }
+  
+  footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #3f3f3f;
+    color: #d5d5d5;
+    padding: 20px;
+  }
+  
+
+   
+ 
